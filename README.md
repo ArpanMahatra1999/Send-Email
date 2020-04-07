@@ -11,5 +11,5 @@ Languages used:
 Steps to Install:
 1. Open any file in IDE or Create Virtual Environment
 2. Install sense_hat and smtplib modules
-3. Install Raspberry Pi on the computer and paste code by editing emails
+3. Install Raspberry Pi on the computer and paste code by editing emails and password
 4. Run.
