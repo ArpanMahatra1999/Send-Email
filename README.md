@@ -1,5 +1,4 @@
 # Send-Email
-
 Python code for sending email using Raspberry Pi.
 
 Tools used:
